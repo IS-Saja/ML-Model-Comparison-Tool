@@ -46,8 +46,8 @@ Users can choose one of the following datasets:
 - Python
 - Scikit-learn
 - Pandas
-- Gradio
-- Hugging Face Spaces
+- numpy
+- Argparse
 
 ---
 
