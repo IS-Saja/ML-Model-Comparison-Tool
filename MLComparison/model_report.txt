@@ -1,0 +1,13 @@
+ML MODEL COMPARISON REPORT
+========================================
+
+Dataset: C:\ml-model-comparison-tool\california_housing.csv
+Task Type: regression
+
+            Model      MSE  R2 Score
+Linear Regression 0.427020  0.892626
+              SVR 0.306657  0.922891
+    Decision Tree 0.333268  0.916200
+    Random Forest 0.178175  0.955198
+
+Best Model: Random Forest
