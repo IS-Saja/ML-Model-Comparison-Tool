@@ -105,13 +105,13 @@ A text file is created containing:
 Run the program using:
 
 ## Classification
-```bash
-python main.py dataset.csv classification
+
+"python main.py dataset.csv classification"
+
 
 ## Regression
 
-```bash
-python main.py dataset.csv regression
+"python main.py dataset.csv regression"
 
 # Output
 
